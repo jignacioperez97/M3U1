@@ -4,3 +4,33 @@
 
 
 https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/master.m3u8?hdnea=st=1661264196~exp=1661264796~acl=/*~hmac=c47619cbfd5e54fb0826be5a6d43f6ce22efdc2d96ce02331133652abb997f98
+
+#EXTINF:-1 ,TNT Sports 2
+
+
+https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/VIDEO_0_8128000.m3u8
+
+#EXTINF:-1 ,TNT Sports 3
+
+
+https://dtvott-abc.akamaized.net/dash_live_1233/dash/1233_TNT_Sports_ACPrem-audio_72882_spa=72400-79740724879457.dash
+
+#EXTINF:-1 ,TNT Sports 4
+
+
+https://1125-vos.dtvott.com/DASH/stream_06/Segment-3623277059256210.m4v
+
+#EXTINF:-1 ,ESPN
+
+
+https://dcs-live-ue4.mp.lura.live/server/play/0ZXvX1TrEXJzszmj/manifest.mpd?anvsid=m177635094-nffc26ca102ae51b14fb146aeef6f21c6
+
+#EXTINF:-1 ,ESPN 2
+
+
+https://ed11.zorrohd2.nl/live/flowitc8ws5-36.ts
+
+#EXTINF:-1 ,ESPN 3
+
+
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
